@@ -3,7 +3,7 @@ Hospital App (MVC & Spring Security)</h1>
 <hr>
 <br>
 <h4>1- Login page</h4>
-<img src="captures/Capture1.PNG">
+<img src="captures/Capture1.png">
 <br>
 <h4>SecurityConfig.java</h4>
 <img src="captures/Capture2.PNG">
@@ -15,7 +15,7 @@ Hospital App (MVC & Spring Security)</h1>
 <img src="captures/Capture4.PNG">
 <br>
 <h4>2- Main page containing list of patients (ADMIN ACCOUNT)</h4>
-<img src="captures/Capture5.PNG">
+<img src="captures/Capture5.png">
 <br>
 <h4>patients.html</h4>
 <img src="captures/Capture6.PNG">
@@ -23,7 +23,7 @@ Hospital App (MVC & Spring Security)</h1>
 <img src="captures/Capture7.PNG">
 <br>
 <h4>notAuthorized page</h4>
-<img src="captures/Capture8.PNG">
+<img src="captures/Capture8.png">
 <br>
 <h4>notAuthorized.html</h4>
 <img src="captures/Capture9.PNG">
